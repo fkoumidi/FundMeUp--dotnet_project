@@ -1,6 +1,6 @@
 # <h3>FundMeUp--dotnet_project</h3>
 
-This project was implemented as part of the .net academy of CodeHub and Project Future powered by ReGeneration
+This project was implemented as part of the .NET Academy of CodeHub and Project Future powered by ReGeneration
 
 # <h3>Tools and technologies</h3>
 
